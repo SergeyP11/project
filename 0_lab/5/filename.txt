@@ -1,0 +1,3 @@
+/Users/sergejpuzanov/Documents/study/C/0_lab/5/inputFile1.txt
+/Users/sergejpuzanov/Documents/study/C/0_lab/5/inputFile2.txt
+/Users/sergejpuzanov/Documents/study/C/0_lab/5/inputFile3.txt
