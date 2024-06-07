@@ -1,0 +1,7 @@
+Bob 10/10/2023 10/15/01/140: hello
+Christina 10/10/2023 10/15/30/100: Hi, where are you
+Bob 10/10/2023 10/16/02/110: I'm in New York
+Sergey 10/10/2023 10/17/14/025: Cool, I'm there too.
+Bob 10/10/2023 10/18/04/100: Let's all meet up
+Christina 15/10/2023 09/15/30/100: Where are you?
+Sergey 17/10/2023 12/17/14/025: how are you?
