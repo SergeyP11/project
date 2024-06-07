@@ -1,0 +1,3 @@
+happy{joyful, content, pleased}
+sad{unhappy, sorrowful, dejected}
+fast{quick, speedy, rapid}
